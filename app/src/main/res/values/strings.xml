@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vidhya</string>
+    <string name="user_name_hint">USER NAME</string>
+    <string name="password_hint">PASSWORD</string>
+
+
+</resources>
